@@ -1,4 +1,4 @@
-# Theme Switcher
+# Telling: Theme Switcher
 
 ![Yerli Uretim](https://img.shields.io/badge/%F0%9F%A4%9D-YERL%C4%B0%20%C3%9CRET%C4%B0M-red)
 
